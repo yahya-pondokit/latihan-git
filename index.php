@@ -18,7 +18,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC"); // usin
 	<table width='80%' border=0>
 
 	<tr bgcolor='#CCCCCC'>
-		<td>Name</td>
+		<td>ALIAS as known as</td>
 		<td>Age</td>
 		<td>Email</td>
 		<td>Update</td>
